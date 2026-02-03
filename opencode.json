@@ -10,7 +10,8 @@
       "git push": "ask",
       "git push --force *": "ask",
       "git rebase *": "ask",
-      "git reset --hard *": "ask"
+      "git reset --hard *": "ask",
+      "rm *": "ask"
     },
     "read": {
       "*": "allow",
